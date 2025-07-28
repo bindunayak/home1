@@ -26,14 +26,6 @@ Full Report: [REPORT.pdf](./REPORT.pdf)
 
 ---
 
-## 🖼️ Sample Screenshots
-
-| Telegram UI | WhatsApp UI |
-|-------------|-------------|
-| ![](./screenshots/telegram.png) | ![](./screenshots/whatsapp.png) |
-
----
-
 ##  Key Takeaways
 
 - Telegram provides greater flexibility for bots, channels, and large communities.
